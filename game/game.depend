@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1652174233 source:d:\codeblock\ltnc1.1\game\main.cpp
+	"game.h"
+
+1652300325 source:d:\codeblock\ltnc1.1\game\game.cpp
+	"game.h"
+
+1652171186 d:\codeblock\ltnc1.1\game\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"const.h"
+	"maincar.h"
+	"background.h"
+	"Opcar.h"
+	"TextManager.h"
+	<ctime>
+
+1652144764 source:d:\codeblock\ltnc1.1\game\image.cpp
+	"image.h"
+	"game.h"
+
+1652171563 d:\codeblock\ltnc1.1\game\image.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1652300838 d:\codeblock\ltnc1.1\game\const.h
+
+1652300402 source:d:\codeblock\ltnc1.1\game\maincar.cpp
+	"maincar.h"
+
+1652149180 d:\codeblock\ltnc1.1\game\maincar.h
+	"image.h"
+	"const.h"
+
+1652085297 source:d:\codeblock\ltnc1.1\game\background.cpp
+	"background.h"
+	"const.h"
+
+1649328454 d:\codeblock\ltnc1.1\game\background.h
+	"image.h"
+
+1652149025 d:\codeblock\ltnc1.1\game\opcar.h
+	"image.h"
+	"const.h"
+
+1652149325 source:d:\codeblock\ltnc1.1\game\opcar.cpp
+	"Opcar.h"
+
+1649703481 source:d:\codeblock\ltnc1.1\game\highscore.cpp
+	"highscore.h"
+
+1649928657 d:\codeblock\ltnc1.1\game\highscore.h
+	<SDL_ttf.h>
+
+1652165426 source:d:\codeblock\ltnc1.1\game\textmanager.cpp
+	"TextManager.h"
+	"game.h"
+
+1652158518 d:\codeblock\ltnc1.1\game\textmanager.h
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<string>
+
+1652346339 source:d:\codeblock\ltnc1.1\copy of game\game\background.cpp
+	"background.h"
+	"const.h"
+
+1649328454 d:\codeblock\ltnc1.1\copy of game\game\background.h
+	"image.h"
+
+1652628473 d:\codeblock\ltnc1.1\copy of game\game\image.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1652631501 d:\codeblock\ltnc1.1\copy of game\game\const.h
+
+1652753353 source:d:\codeblock\ltnc1.1\copy of game\game\game.cpp
+	"game.h"
+
+1652752714 d:\codeblock\ltnc1.1\copy of game\game\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"const.h"
+	"maincar.h"
+	"background.h"
+	"Opcar.h"
+	"TextManager.h"
+	"Option.h"
+	"Fuel.h"
+	"energy.h"
+	<ctime>
+	<vector>
+
+1652149180 d:\codeblock\ltnc1.1\copy of game\game\maincar.h
+	"image.h"
+	"const.h"
+
+1652753478 d:\codeblock\ltnc1.1\copy of game\game\opcar.h
+	"image.h"
+	"const.h"
+
+1652632993 d:\codeblock\ltnc1.1\copy of game\game\textmanager.h
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<string>
+	"image.h"
+
+1652628611 source:d:\codeblock\ltnc1.1\copy of game\game\image.cpp
+	"image.h"
+	"game.h"
+
+1652752098 source:d:\codeblock\ltnc1.1\copy of game\game\main.cpp
+	"game.h"
+
+1652754182 source:d:\codeblock\ltnc1.1\copy of game\game\maincar.cpp
+	"maincar.h"
+
+1652752844 source:d:\codeblock\ltnc1.1\copy of game\game\opcar.cpp
+	"Opcar.h"
+	"game.h"
+
+1652632993 source:d:\codeblock\ltnc1.1\copy of game\game\textmanager.cpp
+	"TextManager.h"
+	"game.h"
+
+1652750950 source:d:\codeblock\ltnc1.1\copy of game\game\fuel.cpp
+	"Fuel.h"
+
+1652750934 d:\codeblock\ltnc1.1\copy of game\game\fuel.h
+	"image.h"
+	"const.h"
+
+1652665758 d:\codeblock\ltnc1.1\copy of game\game\energy.h
+	"image.h"
+
+1652666086 source:d:\codeblock\ltnc1.1\copy of game\game\energy.cpp
+	"energy.h"
+
+1652754032 d:\codeblock\ltnc1.1\copy of game\game\option.h
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<string>
+	"image.h"
+
+1652754073 source:d:\codeblock\ltnc1.1\copy of game\game\option.cpp
+	"Option.h"
+	"game.h"
+
