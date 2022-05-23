@@ -7,6 +7,8 @@
      + Mingw32 ( ver 7.3.0 )
      + Thư viện SDL
    * Chạy chương trình: 
+     + Download CodeBlocks
+     + Download [ game ](https://github.com/oswaldcao/CarGame/archive/refs/heads/main.zip)
     
 ### 2. Mô tả về trò chơi
    * Tên trò chơi: Oto vượt chướng ngoại vật.
