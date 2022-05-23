@@ -2,11 +2,11 @@
 ## Cao Thành Trung - 21020131
 
 ### 1. Hướng dẫn chạy chương trình
-    * Yêu cầu
-      + CodeBlocks ( hoặc các trình biên dịch C++ khác )
-      + Mingw32 ( ver 7.3.0 )
-      + Thư viện SDL
-    * Chạy chương trình
+      * Yêu cầu
+         + CodeBlocks ( hoặc các trình biên dịch C++ khác )
+         + Mingw32 ( ver 7.3.0 )
+         + Thư viện SDL
+      * Chạy chương trình
     
 ### 2. Mô tả về trò chơi
       * Tên trò chơi: Oto vượt chướng ngoại vật.
